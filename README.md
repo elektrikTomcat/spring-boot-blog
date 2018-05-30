@@ -40,7 +40,7 @@ Admin password: **admin**
 
 User username: **user**
 
-User password: **password** --use this
+User password: **password**
 
 ### Maven Wrapper
 
