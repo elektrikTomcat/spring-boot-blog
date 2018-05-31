@@ -2,7 +2,7 @@
 
 ## About
 
-This is a demo project for practicing **Spring Boot + Thymeleaf**. 
+This is a demo project for practicing **Spring Boot + Thymeleaf**. --comment out 
 The idea was to build some basic blogging platform.
 
 It was made using **Spring Boot**, **Spring Security**, **Thymeleaf**, **Spring Data JPA**, **Spring Data REST** and **Docker**. 
