@@ -21,7 +21,7 @@ Non-authenticated users can see all blog posts, but cannot add new posts or comm
 
 ## Configuration
 
-### Configuration Files
+### Configuration Files --yes
 
 Folder **src/resources/** contains config files for **blog-demo** Spring Boot application.
 
